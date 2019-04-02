@@ -1,1 +1,2 @@
-# van_django
+# Learn Django
+Wesite: https://www.djangoproject.com/
